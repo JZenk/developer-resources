@@ -18,3 +18,13 @@ My curated collection of resources for frontend web development.
 + [Editors](workflow/editors.md): Code editors for web development.
 + [GitHub](workflow/github.md): GitHub is used for Version Control at the U.
 + [Time Management](workflow/time-management.md): My way of getting stuff done and keeping sane.
+
+## Professional Development
++ [Books](professional/books.md): My reading list.
++ [Groups](professional/groups.md): Groups to join.
++ [Online](professional/online.md): A grab bag of online resources.
+
+## Presentations
++ [An Accessible U](https://z.umn.edu/introa11y): Joint presentation on accessibility.
++ [Git Rebasing](http://z.umn.edu/shrug2whoa): How to rebase in Git.
++ [Tiny Talks](https://z.umn.edu/tinytalks): Tips on how to start giving presentations.
