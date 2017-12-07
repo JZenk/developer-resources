@@ -21,10 +21,6 @@ My curated collection of resources for frontend web development.
 
 ## Professional Development
 + [Books](professional/books.md): My reading list.
-+ [Groups](professional/groups.md): Groups to join.
++ [Groups](professional/groups.md): Groups to join on campus.
 + [Online](professional/online.md): A grab bag of online resources.
-
-## Presentations
-+ [An Accessible U](https://z.umn.edu/introa11y): Joint presentation on accessibility.
-+ [Git Rebasing](http://z.umn.edu/shrug2whoa): How to rebase in Git.
-+ [Tiny Talks](https://z.umn.edu/tinytalks): Tips on how to start giving presentations.
++ [Presentations](professional/presentations.md): Presentations I have given.
