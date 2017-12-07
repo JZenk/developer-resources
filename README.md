@@ -13,6 +13,7 @@ My curated collection of resources for frontend web development.
 ## Drupal
 + [Drupal 7](drupal/7.md): The current enterprise Drupal framework.
 + [Drupal 8](drupal/8.md): The newest version of production ready Drupal.
++ [PHP](drupal/php.md): Resources for PHP.
 
 ## General workflow
 + [Editors](workflow/editors.md): Code editors for web development.
