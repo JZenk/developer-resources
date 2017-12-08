@@ -5,10 +5,9 @@ My curated collection of resources for frontend web development.
 ## Web Basics
 + [HyperText Markup Language (HTML)](basics/html.md): HTML is the standard language for webpages.
 + [Cascading Style Sheets (CSS)](basics/css.md): CSS styles the web.
++ [JavaScript](basics/javascript.md): Adding actions and interaction to webpages.
 + [Accessiblity](basics/accessibility.md): How to make the web accessible for all.
 
-## JavaScript
-+ TBD
 
 ## Drupal
 + [Drupal 7](drupal/7.md): The current enterprise Drupal framework.

@@ -1,5 +1,11 @@
 # Online
 
+## Exercism.io
++ [JavaScript](http://exercism.io/languages/javascript/about)
++ [ECMAScript](http://exercism.io/languages/ecmascript/about)
++ [PHP](http://exercism.io/languages/php/about)
++ [All available languages](http://exercism.io/languages)
+
 ## Videos
 + [Frontend Masters](https://frontendmasters.com/)
 + [Lynda.com](https://www.lynda.com/)
