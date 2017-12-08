@@ -1,0 +1,5 @@
+title: Jenn's Developer Resources
+description: Resources for frontend development on campus.
+theme: jekyll-theme-hacker
+gems:
+  - jemoji
