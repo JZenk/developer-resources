@@ -15,4 +15,10 @@ Feel free to download or clone my training repository [Fred](https://github.umn.
 + [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 + **[On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)** This resource I come back to often.
 
+## One Off Commands
+
+This is a list of commands I keep looking up.
+
++ Show the URL for the repository `git remote show origin`
+
 Go back: [developer-resources](../README.md)
