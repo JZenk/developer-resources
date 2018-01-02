@@ -16,6 +16,7 @@ My curated collection of resources for frontend web development.
 
 ## General workflow
 + [Editors](workflow/editors.md): Code editors for web development.
++ [Setup](workflow/setup.md): My current setup.
 + [GitHub](workflow/github.md): GitHub is used for Version Control at the U.
 + [Time Management](workflow/time-management.md): My way of getting stuff done and keeping sane.
 
