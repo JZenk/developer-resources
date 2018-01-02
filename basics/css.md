@@ -18,6 +18,7 @@ Cascading Style Sheets style the web.  They were created for easier styling.  Pr
 + [Intro to Sass](https://codepen.io/sasstantrum/post/intro-to-sass)
 
 ### Advanced tips
++ [Specificity](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
 + [Double Ampersand Selector](http://blog.teamtreehouse.com/sass-tip-double-ampersand-selector)
 + [How to use & to simplify your Sass](https://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass)
 
