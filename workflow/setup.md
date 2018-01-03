@@ -31,3 +31,10 @@ brew leaves
 # Install all packages in brew.txt file
 brew.txt | xargs brew install
 ```
+
+```
+# Update script for brew
+brew update
+brew outdated
+brew upgrade
+```
