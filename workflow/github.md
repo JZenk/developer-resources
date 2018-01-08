@@ -19,6 +19,10 @@ Feel free to download or clone my training repository [Fred](https://github.umn.
 
 This is a list of commands I keep looking up.
 
-+ Show the URL for the repository `git remote show origin`
++ Show the URL for the repository: 
+  ```
+  git remote show origin
+  ```
++ [Add SSH key to ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#adding-your-ssh-key-to-the-ssh-agent)
 
 Go back: [developer-resources](../README.md)
