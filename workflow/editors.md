@@ -2,6 +2,7 @@
 
 Everyone has a favorite, find yours.
 
++ [Atom](https://atom.io/)
 + [Emacs](https://www.gnu.org/software/emacs/)
 + [Notepad++](https://notepad-plus-plus.org/)
 + [Sublime](https://www.sublimetext.com/)
@@ -17,6 +18,7 @@ Many of the editors have plugins to further customize your editor.
 Visual Studio Code manages it own plugins. Feel free to search for these.
 
 + Debugger for Chrome
++ fairyfloss
 + JS-CSS-HTML Formatter
 + Vim
 + vscode-icons

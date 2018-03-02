@@ -2,6 +2,7 @@
 
 ## 2016
 + [Paragraphs](https://docs.google.com/presentation/d/1JYow7bDOax3n6n_x7BJebAOQ1A05qNmUOPQdbPZ5Bbc/edit?usp=sharing): Why & how to use the Paragraphs module in Drupal 7.
++ [What is GitHub](https://docs.google.com/presentation/d/13GrD0_FHLi9-cyoWUOl6Chh5MquQvGUodgwa_UEu8Ek/edit?usp=sharing): Introduction to GitHub for non developers.
 
 ## 2017
 + [An Accessible U](https://z.umn.edu/introa11y): Joint presentation on accessibility.
@@ -11,6 +12,6 @@
 + [Tiny Talks](https://z.umn.edu/tinytalks): Tips on how to start giving presentations.
 
 ## 2018
-+ Coming Soon!
++ [Drupal Migrations](https://z.umn.edu/drupal-migration): Joint presentation on Migrations in Drupal 8.
 
 Go back: [developer-resources](../README.md)

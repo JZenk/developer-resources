@@ -14,6 +14,7 @@ Feel free to download or clone my training repository [Fred](https://github.umn.
 + [The simple guide](http://rogerdudler.github.io/git-guide/)
 + [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 + **[On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)** This resource I come back to often.
++ [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ## One Off Commands
 
