@@ -10,6 +10,8 @@ Books I have read or are on my reading list.
 ## Women in IT
 + [Programmed Inequality](https://mitpress.mit.edu/books/programmed-inequality)
 + [Women in Tech](https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories-ebook/dp/B010ZZYJSI)
++ [Broad Band](https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0735211752)
++ [Algorithms of Oppression](http://a.co/66L015M)
 
 ## Younger Coders
 + [Secret Coders](http://www.secret-coders.com/)
